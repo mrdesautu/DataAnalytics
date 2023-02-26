@@ -2,14 +2,14 @@
 
  <h1 align=center> *PROYECTO INDIVIDUAL Nº2* </h1>
 
- # <h1 align=center>**``**</h1>
+ # <h1 align=center>**`INVERSIONES EN EL MERCADO BURSÁTIL Y S&P 500`**</h1>
 
 
 # <h1 align=center>**`AUTOR: MARTIN RODRIGO, MORALES`**</h1>
 
 
 <p align="center">
-<img src="https://user-images.githubusercontent.com/67664604/217914153-1eb00e25-ac08-4dfa-aaf8-53c09038f082.png"  height=300>
+<img src="https://github.com/mrdesautu/DataAnalytics-PIN-2/blob/main/recursos/inversion.jpg"  height=300>
 </p>
 
 <br/>                          
