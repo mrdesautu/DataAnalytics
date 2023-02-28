@@ -49,7 +49,7 @@ Una organizacion, no es equivalente a una persona fisica, y aunque esta compuest
 <img src="https://github.com/mrdesautu/DataAnalytics-PIN-2/blob/main/recursos/ruedadinero.jpg"  height=300>
 </p>
 
-**`KPIs a analizar`**:
+**`KPIs `**:
 Se tomarám 3 KPIs como medida de analisis, todos ellos de alta relevancia para la toma de decision y pensados dentro del marco del objetivo planteado.
 
 + ROI: ROI es la sigla en inglés de "Return on Investment", que en español significa "Retorno de inversión". El ROI es una métrica financiera que se utiliza para medir la rentabilidad de una inversión en relación a su costo. Se expresa en forma de porcentaje y se calcula dividiendo la ganancia neta de una inversión entre el costo total de la inversión.
@@ -74,12 +74,14 @@ Es importante tener en cuenta que el volumen de negociación del S&P 500 no es e
 
 <br/> 
 
-**`¿ES MEJOR ESTAR INVERTIDO QUE NO ESTARLO `**:
+**`¿ES MEJOR ESTAR INVERTIDO QUE NO ESTARLO? `**:
 
 + En general, estar invertido es mejor que no estarlo, ya que históricamente las inversiones en el mercado de valores han tendido a generar retornos positivos a largo plazo. Sin embargo, esto depende en gran medida de la estrategia de inversión, el horizonte temporal, el perfil de riesgo y las condiciones del mercado en un momento dado.
 Por ejemplo, si una persona tiene un horizonte temporal a corto plazo y necesita liquidez en un futuro próximo, puede que no sea la mejor estrategia de inversión estar invertido en el mercado de valores, ya que puede haber fluctuaciones en el valor de las inversiones que puedan resultar en pérdidas si se necesita vender las acciones en un momento de baja.
 Además, es importante considerar que las inversiones en el mercado de valores están sujetas a riesgos, tales como la volatilidad del mercado, el riesgo de liquidez, el riesgo de crédito y otros factores económicos y políticos. Por lo tanto, es esencial tener un plan de inversión sólido y diversificado, que tenga en cuenta el perfil de riesgo y las metas de inversión a largo plazo.
 En conclusión, en general, estar invertido en el mercado de valores puede ser beneficioso a largo plazo, pero esto depende de la estrategia de inversión y las circunstancias individuales de cada inversor. Es importante trabajar con un asesor financiero confiable y capacitado para desarrollar un plan de inversión adecuado para cada persona.
+
+<br/>                          
 
 **`¿CÓMO INVERTIR EN EL S&P500?`**:
 + Invertir directamente en el S&P 500 es posible a través de la compra de un fondo cotizado en bolsa (ETF, por sus siglas en inglés) que siga el índice. Un ETF es un tipo de fondo de inversión que se negocia en bolsa, lo que significa que se puede comprar y vender a lo largo del día como una acción común.
@@ -91,14 +93,14 @@ Algunos de los ETFs que siguen el S&P 500 son el SPDR S&P 500 ETF Trust (SPY), e
 También se debe tener en cuenta que la inversión en el S&P 500 a través de un ETF conlleva riesgos de mercado, y los inversores deben considerar sus objetivos de inversión y tolerancia al riesgo antes de tomar una decisión de inversión.
 
 **`¿Y DESDE ARGENTINA?`**:
-Desde Argentina, también se puede invertir en el S&P 500 a través de un ETF que cotice en los mercados locales o mediante la apertura de una cuenta de corretaje en línea con una firma de corretaje internacional que permita la negociación de ETFs.
++ Desde Argentina, también se puede invertir en el S&P 500 a través de un ETF que cotice en los mercados locales o mediante la apertura de una cuenta de corretaje en línea con una firma de corretaje internacional que permita la negociación de ETFs.
 Para invertir en un ETF que replique al S&P 500 desde Argentina, se puede buscar un ETF que esté listado en la Bolsa de Comercio de Buenos Aires (BCBA) o en la Bolsa de Valores de Nueva York (NYSE). En el caso de que no haya un ETF disponible en la BCBA, se puede invertir en un ETF que cotice en la NYSE y esté disponible para inversores internacionales.
 Es importante destacar que para invertir en ETFs extranjeros desde Argentina se deben cumplir con los requisitos y regulaciones del mercado de capitales argentino, y esto puede implicar el cumplimiento de ciertos trámites y la realización de ciertas declaraciones ante las autoridades correspondientes.
 También se debe tener en cuenta que la inversión en ETFs y en el S&P 500 conlleva riesgos de mercado, y los inversores deben considerar sus objetivos de inversión y tolerancia al riesgo antes de tomar una decisión de inversión. Es recomendable buscar asesoramiento financiero antes de tomar cualquier decisión de inversión.
  
 <br/>
 
-**`CONCLUSIONES FINALES`**:
+# <h1 align=center>**`CONCLUSIONES FINALES:`**</h1>
 
 + Toda inversion es un elemento covariante (determinado por la relacióm y el juego con multiples factores). Por ende es indispensable realizar un análisis exhaustivo de los factores antes mencionados para disminuir nuestro riesgo, entender desde donde partimos y a donde queremos llegar. Proponiendo para esto el concepto de **Inversión Eficaz**
 + El S&P500 es un índice, que nos permite conocer el estadod e multiples empresas, pero tambien conforma un valor en el cual podemos realizar una inversion concreta, y que por su multiplicidad presenta un menor riesgo que alguna empresa especifica que lo conforme. 
