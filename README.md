@@ -54,7 +54,9 @@ En esta hoja encontrará toda la información recabada y utilizada. Recominedo s
 + Yfinance: obtención de datos. 
 
 
-
+<p align="center">
+<img src="https://github.com/mrdesautu/DataAnalytics-PIN-2/blob/main/recursos/aspectos%20organizacionales.jpg"  height=300>
+</p>
 
 ## ANALISIS DE FORTALEZAS Y DIFICULTADES PERSONALES
 
