@@ -58,7 +58,7 @@ En esta hoja encontrará toda la información recabada y utilizada. Recominedo s
 <img src="https://github.com/mrdesautu/DataAnalytics-PIN-2/blob/main/recursos/aspectos%20organizacionales.jpg"  height=300>
 </p>
 
-## ANALISIS DE FORTALEZAS Y DIFICULTADES PERSONALES
+## ANALISIS DE FORTALEZAS Y DESAFÍOS PERSONALES
 
 + Me resulta interesante comentar algo de mi experiencia en la realización de este trabajo.
 
